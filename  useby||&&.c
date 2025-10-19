@@ -9,6 +9,7 @@ int main(){
     else{
     printf("not divisible by 5");
     }
+
     int n ;
     printf("\nenter a number:");
     scanf("%d",&n);                                             // use by ||,&& //
@@ -18,6 +19,7 @@ int main(){
     else{
     printf("the number is not divisible by 5 or 3");
     }
+
     int y ;
     printf("\nenter a number:");
     scanf("%d",&y);
@@ -27,6 +29,7 @@ int main(){
     else{
     printf("the number is not divisible by 20 or 15");
     }
+
     int z ;
     printf("\nenter a number:");
     scanf("%d",&z);
@@ -35,7 +38,8 @@ int main(){
     }
     else{
     printf("it is a no three digit number "); 
-    } 
+    }
+
     int s , m , k ;
     printf("enter 1st number : ");
     scanf("%d",&s);
@@ -52,6 +56,7 @@ int main(){
     if(k>s && k>m ){
     printf("%dis greatest ",k);
     }
+
     int a , b , c  , d;
     printf("\nenter 1st number : ");
     scanf("%d",&a);
@@ -73,6 +78,7 @@ int main(){
     if(d>a && d>b && d>c ){
     printf("%d is greatesr ",d);   
     } 
+
     int sujeet ;
     printf("enter 1st age :");
     scanf("%d",&sujeet);
@@ -92,9 +98,5 @@ int main(){
     printf("%d is youngest age\n",sachin);
     }
     
-
-
-
-
     return 0;
 }
