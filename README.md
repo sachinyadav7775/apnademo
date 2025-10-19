@@ -1,4 +1,4 @@
 # apnademo
-This is my first Git Repository
+This is my first Git-Repository
 <br>
-Author-sky (hello sky)
+Author-Sky (Hello_sky)
