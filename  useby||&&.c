@@ -9,7 +9,7 @@ int main(){
     else{
     printf("not divisible by 5");
     }
-
+    
     int n ;
     printf("\nenter a number:");
     scanf("%d",&n);                                             // use by ||,&& //
