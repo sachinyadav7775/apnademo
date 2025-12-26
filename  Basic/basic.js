@@ -6,3 +6,5 @@ age = 18;
 console.log(age + 1);
 price = 283;
 console.log(price);
+Class = 10;
+console.log(Class+1);
